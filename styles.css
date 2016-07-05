@@ -1,1 +1,39 @@
 /* add your CSS here */
+div.page {
+  border: 1px;
+  border-color: rgb(230,230,230);
+  border-style: inset;
+  border-right-width: 9px;
+  border-bottom-width: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+}
+
+h3 {
+  font-size: 1.30em;
+}
+
+p.interesting-fact {
+  font-style: italic;
+}
+
+.bolded {
+  font-weight: bold;
+}
+
+ul.list-items {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+div.information {
+  border: 1px solid;
+  border-color: rgb(206,206,206);
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+img.animal-picture {
+  padding-bottom: 16px;
+}
